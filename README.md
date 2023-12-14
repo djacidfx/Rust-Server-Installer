@@ -1,3 +1,16 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/djacidfx/djacidfx.github.io)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwildcatproductions.biz%2F&up_message=Online&up_color=blue&down_message=Offline&down_color=red)
+![GitHub Discussions](https://img.shields.io/github/discussions/djacidfx/djacidfx.github.io)
+<span class="badge-githubsponsors"><a href="https://github.com/sponsors/djacidfx" title="Donate to this project using GitHub Sponsors"><img src="https://img.shields.io/badge/github-donate-yellow.svg" alt="GitHub Sponsors donate button" /></a></span>
+<span class="badge-buymeacoffee"><a href="https://buymeacoffee.com/wildcatprod" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a></span>
+<span class="badge-patreon"><a href="https://patreon.com/wildcatstudio" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
+<span class="badge-paypal"><a href="https://paypal.me/WildCatProductions" title="Donate to this project using Paypal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" alt="PayPal donate button" /></a></span>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/djacidfx/Rust-Server-Installer)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/djacidfx/Rust-Server-Installer)
+[![Awesome Content - Click Here](https://img.shields.io/badge/Awesome_Content-Click_Here-2ea44f)](https://mywild.work/)
+[![Awesome](https://awesome.re/badge.svg)](https://mywild.work/)
+
 Rust is a multiplayer-only survival sandbox game developed by Facepunch Studios. It was released in early access in 2013 and fully released in 2018. In Rust, players must gather resources, build structures, and craft weapons and tools in order to survive in a harsh and unforgiving world. Rust is known for its challenging gameplay, its emphasis on PvP combat, and its unique world-building system.
 
 ![Rust Server](https://mywild.work/uploads/images/202310/image_750x_652c5126de5ab.jpg)
