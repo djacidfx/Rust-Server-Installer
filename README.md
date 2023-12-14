@@ -11,6 +11,9 @@
 [![Awesome Content - Click Here](https://img.shields.io/badge/Awesome_Content-Click_Here-2ea44f)](https://mywild.work/)
 [![Awesome](https://awesome.re/badge.svg)](https://mywild.work/)
 
+## Issues
+If you find a bug or run into any issues please submit them on our [Issue Tracker](https://github.com/djacidfx/Rust-Server-Installer/issues)
+
 Rust is a multiplayer-only survival sandbox game developed by Facepunch Studios. It was released in early access in 2013 and fully released in 2018. In Rust, players must gather resources, build structures, and craft weapons and tools in order to survive in a harsh and unforgiving world. Rust is known for its challenging gameplay, its emphasis on PvP combat, and its unique world-building system.
 
 ![Rust Server](https://mywild.work/uploads/images/202310/image_750x_652c5126de5ab.jpg)
